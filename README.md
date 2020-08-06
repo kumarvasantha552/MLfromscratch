@@ -18,5 +18,16 @@ Machine Learning algorithm implementations from scratch.
 - K-Means
 - AdaBoost
 - Linear Discriminant Analysis (LDA)
+
+
+# requirements(any version)
+$ pip install numpy
+
+$ pip install time
+
+$ pip install pandas
+
+
+
 ## follow for more 
 https://github.com/kumarvasantha552
